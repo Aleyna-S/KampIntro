@@ -20,7 +20,6 @@ namespace OOP3
             {
                 kredi.Hesapla();
             }
-            //coded Alişşşşşş
         }
     }
 }
